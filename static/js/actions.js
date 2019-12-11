@@ -109,6 +109,7 @@ const Actions = [{
     lifeTime: 1800,
     texts: [{
         text: '苏苏'
+        hsla: color2
       },
       {
         text: ' ❤️ ',
