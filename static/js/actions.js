@@ -114,7 +114,7 @@ const Actions = [{
   {
     lifeTime: 1800,
     texts: [{
-        text: '苏苏',
+        text: 'su',
         hsla: color4
       },
       {
