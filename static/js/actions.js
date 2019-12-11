@@ -17,6 +17,12 @@ const color3 = {
   l: '50%',
   a: '80%'
 };
+const color4 = {
+  h: 0,
+  s: '100%',
+  l: '100%',
+  a: '100%'
+}
 const points1 = [];
 const points2 = [];
 const Actions = [{
