@@ -106,9 +106,9 @@ const Actions = [{
     }]
   },
   {
-    lifeTime: 180,
+    lifeTime: 1800,
     texts: [{
-        text: 'I',
+        text: '苏苏',
         hsla: color2
       },
       {
