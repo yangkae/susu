@@ -19,9 +19,9 @@ const color3 = {
 };
 const color4 = {
   h: 0,
-  s: '100%',
-  l: '100%',
-  a: '100%'
+  s: '0%',
+  l: '0%',
+  a: '0%'
 }
 const points1 = [];
 const points2 = [];
